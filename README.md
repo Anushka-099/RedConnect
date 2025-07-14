@@ -135,6 +135,6 @@ This project is licensed under the [MIT License](#insert-license-link).
 
 ## Contact
 For any questions, feel free to reach out:
-- Email: [ashoksuthar48607@gmail.com](ashoksuthar48607@gmsil.com)
+- Email: [anushkasahoo9@gmail.com](anushkasahoo9@gmail.com)
 
 
